@@ -43,7 +43,7 @@ Include some screenshots of your app to give users a visual idea of what your ap
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nihalahmed07/codsoft_task2.git
+    git clone https://github.com/nihalahmed07/CodSoft-Task-2-Quotes-App.git
 
     ```
 2. Open the project in Android Studio.
@@ -81,7 +81,7 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 Nihal Ahmed - [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
 
-Project Link: [Quote of the Day](https://github.com/nihalahmed07/codsoft_task2)
+Project Link: [Quote of the Day](https://github.com/nihalahmed07/CodSoft-Task-2-Quotes-App)
 
 ## Demo
 

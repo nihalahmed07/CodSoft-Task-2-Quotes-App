@@ -81,7 +81,7 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 Nihal Ahmed - [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
 
-Project Link: [https://github.com/nihalahmed07/Task2 Quote of the Day](https://github.com/nihalahmed07/CODSOFT-TASK-SUBMISSION/tree/main/TASK2%20Quote%20of%20the%20Day)
+Project Link: [Quote of the Day](https://github.com/nihalahmed07/codsoft_task2)
 
 ## Demo
 

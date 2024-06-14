@@ -27,9 +27,9 @@ The Quote of the Day App provides daily inspiring quotes to motivate and uplift 
 Include some screenshots of your app to give users a visual idea of what your app looks like.
 
 <div>
-    <img src="images/Home.jpg" alt="Home" width="280" height="600">
-    <img src="images/Bookmark.jpg" alt="Home" width="280" height="600">
-    <img src="images/Share.jpg" alt="Home" width="280" height="600">
+    <img src="images/Home.jpg" alt="Home" width="260" height="550">
+    <img src="images/Bookmark.jpg" alt="Home" width="260" height="550">
+    <img src="images/Share.jpg" alt="Home" width="260" height="550">
 </div>
 
 ## Installation
